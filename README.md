@@ -1,1 +1,1 @@
-# Linuc-Network-Information-Script
+# Linux-Network-Information-Script
